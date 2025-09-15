@@ -1,0 +1,42 @@
+{
+  "date_pronostic": "20-04-2025",
+  "course": {
+    "title": "Plat - Handicap divise - 3 ans - 2400 mètres - Grande Piste, Corde à droite - Ref: +21 (*) - départ vers 18h00",
+    "h3": "5-11-6-12-9-8"
+  },
+  "pronostics": {
+    "R-1": [
+      {"name": "Corssa 1", "numbers": "8 5 4 11 16"},
+      {"name": "Corssa 2", "numbers": "8 5 4 11 16"},
+      {"name": "Corssa 3", "numbers": "8 5 4 11 16"},
+      {"name": "Corssa 4", "numbers": "8 5 4 11 16"},
+      {"name": "Corssa 5", "numbers": "8 5 4 11 16"},
+      {"name": "Corssa 6", "numbers": "8 5 4 11 16"},
+      {"name": "Corssa 7", "numbers": "8 5 4 11 16"},
+      {"name": "Corssa 8", "numbers": "8 5 4 11 16"}
+    ],
+    "R-2": [
+      {"name": "Corssa 1", "numbers": "8 5 4 11 16"},
+      {"name": "Corssa 2", "numbers": "8 5 4 11 16"},
+      {"name": "Corssa 3", "numbers": "8 5 4 11 16"},
+      {"name": "Corssa 4", "numbers": "8 5 4 11 16"},
+      {"name": "Corssa 5", "numbers": "8 5 4 11 16"},
+      {"name": "Corssa 6", "numbers": "8 5 4 11 16"},
+      {"name": "Corssa 7", "numbers": "8 5 4 11 16"},
+      {"name": "Corssa 8", "numbers": "8 5 4 11 16"}
+    ]
+  },
+  "rappour": {
+    "title": "Rappour",
+    "date": "5/12/2025",
+    "numbers": "5 7 11 10 6",
+    "orders": [
+      {"name": "Order", "amount": "200,00 DH"},
+      {"name": "Desourd", "amount": "200,00 DH"},
+      {"name": "Qouarte", "amount": "200,00 DH"},
+      {"name": "Terce", "amount": "200,00 DH"},
+      {"name": "Coplle", "amount": "200,00 DH"}
+    ]
+  },
+  "download_text": "Register to download cc 2025"
+}

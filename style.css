@@ -1,0 +1,317 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Poppins:wght@700&display=swap');
+
+
+*{
+  padding: 0;
+  margin: 0;
+  color: #ffff;
+  box-sizing: border-box;
+  scroll-behavior: smooth;
+  font-family: "Montserrat", sans-serif;
+  
+
+}
+body{
+  height: 100vh;
+  width: 100vw;
+  background-color: #000;
+  color: #fff;
+  overflow-x: hidden;
+
+
+}
+img {
+height: 100vh;
+width: 100vw;
+position: fixed;
+z-index: -1;
+opacity: 0.1;
+
+}
+
+header {
+height: 80px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 5px 50px;
+z-index: 999;
+position: fixed;   
+top: 0;            
+left: 0;
+width: 100%;      
+background: #000;
+color: #fff;
+text-align: center;
+
+
+
+}
+
+.d{
+
+  
+  display: flex;
+  font-size: 12px;
+  align-items: center;
+  padding: 5px;
+  border-radius: 5px;
+  gap: 5px;
+  border: #fff solid 1px;
+}
+
+.d:hover {
+  cursor: pointer;
+  background-color: chocolate;
+}
+
+
+
+
+ul {
+  width: 20vw;
+  display: flex;
+  margin: 0;
+  justify-content: space-evenly;
+ 
+
+}
+
+header ul li{
+  
+  list-style: none;
+}
+
+i{
+
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+}
+
+
+h2{
+
+  color: chocolate;
+  cursor: pointer;
+
+}
+
+h2:hover{
+
+  color: rgb(255, 255, 255);
+  
+}
+
+.content {
+
+margin: 150px;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+
+
+.date{
+  margin-top: 100px;
+  color: chocolate;
+}
+
+h1{
+  font-size: 20px;
+  text-align: center;
+  margin: 40px;
+  width: 50vw;
+}
+
+h3{
+
+  color: chocolate;
+  font-size: 30px;
+  margin: 50px;
+  width: 30vw;
+  text-align: center;
+  border-radius: 6px;
+  border: #fff solid 1px;
+ 
+  
+}
+
+.box{
+
+  margin: 10px;
+  height: 450px;
+  width: 1000px;
+  border-radius: 10px;
+  display: flex;
+  padding: 20px 20px;
+  gap: 20px;
+
+}
+
+
+.box-reniou{
+
+height: 400px;
+width: 600px;
+border-radius: 6px;
+border: #fff solid 1px;
+}
+
+.pronostic-r1-r2{
+height: 400px;
+width: 600px;
+border-radius: 6px;
+border: #fff solid 1px;
+text-align: center;
+
+}
+
+.corssa{
+
+display: flex;
+justify-content: space-around;
+margin: 20px 0;
+
+}
+
+h4{
+text-align: center;
+margin: 20px;
+color: chocolate;
+}
+
+.rappour{
+
+
+  height: 300px;
+  width: 600px;
+  border-radius: 6px;
+  border: #fff solid 1px;
+  text-align: center;
+  margin-bottom: 100px;
+  flex-direction: column;
+  
+}
+
+h6{
+
+  font-size: 20px;
+  padding: 10px;
+
+}
+
+.arive {
+
+  display: flex;
+  justify-content: space-around;
+  padding: 7px;
+
+}
+
+.sini{
+
+margin: 50px;
+
+}
+@media (max-width:500px){
+
+  h1{
+  font-size: 15px;
+  text-align: center;
+  margin: 10px 0px 0px;
+  
+  width: 80vw;
+}
+
+h3{
+
+  color: chocolate;
+  font-size: 30px;
+  margin-bottom: 100px;
+  width: 50vw;
+  text-align: center;
+  border-radius: 6px;
+  border: #fff solid 1px;
+ 
+  
+}
+
+.box{
+  margin: 160px;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.box-reniou{
+
+height: 400px;
+width: 360px;
+border-radius: 6px;
+  border: #fff solid 1px;
+}
+
+
+.pronostic-r1-r2{
+height: 400px;
+width: 360px;
+border-radius: 10px;
+border: #fff solid 1px;
+text-align: center;
+
+}
+
+.rappour{
+
+
+  height: 300px;
+  width: 360px;
+  border-radius: 10px;
+  border: #fff solid 1px;
+  text-align: center;
+  display: flex;
+  margin: 20px;
+  margin-bottom: 100px;
+  
+}
+
+header {
+height: 80px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+padding: 5px 35px;
+z-index: 999;
+position: fixed;   
+top: 0;            
+left: 0;
+width: 500px;      
+background: #000;
+color: #fff;
+text-align: center;
+
+
+
+}
+
+
+body{
+  height: 100vh;
+  width: 500px;
+  background-color: #000;
+  color: #fff;
+  overflow-x: hidden;
+
+
+}
+
+
+
+
+
+
+  
+}
+
+
